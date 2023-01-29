@@ -1,5 +1,5 @@
 # Gerador de Números Aleatórios
-Este script adiciona uma funcionalidade de geração de números aleatórios a um botão na página HTML.
+Este script adiciona uma funcionalidade de geração de números aleatórios com um botão na página HTML.
 
 ## Funcionamento
 1. O evento de clique é adicionado ao botão com id "btn".
