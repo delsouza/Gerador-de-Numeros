@@ -1,3 +1,3 @@
-# Gerador de Números Aleatórios
+# Gerador de Números
 
-Gerador de Números em HTML, CSS e JS!
+Gerador de Números Aleatórios em HTML, CSS e JS! O código gera números aleatórios baseado nos números min e max que o usuário solicitar!
